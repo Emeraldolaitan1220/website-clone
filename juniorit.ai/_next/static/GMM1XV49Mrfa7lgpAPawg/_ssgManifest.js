@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fabout-us","\u002Fauth\u002Fforgot-password","\u002Fauth\u002Freset-password","\u002Fauth\u002Fsign-in","\u002Fauth\u002Fsign-up","\u002Fcreative-kids","\u002Flive-class","\u002Fplayground","\u002Fverify-resource"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
